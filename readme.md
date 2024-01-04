@@ -31,16 +31,10 @@ This example code will generate a music card image and save it.
 })()
 ```
 
-# __Output__
-This is the **classic** output of musicard.
-![classic](/example/mewcard.png)
+
 
 # Originial Source
 
 ```
 https://github.com/a3pire
 ```
-# Projects
-|  Sr.  |            Name            |  Platform  |
-|:-----:|:--------------------------:|:----------:|
-| **1** | [Mewwme's Music](https://discord.com/api/oauth2/authorize?client_id=928711702596423740&permissions=2184571952&scope=bot%20applications.commands) | discord.js |
